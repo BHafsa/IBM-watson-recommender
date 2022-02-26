@@ -9,11 +9,9 @@
 
 
 
-[IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) platform is a platform that run and manage AI models, 
-and optimize decisions anywhere on IBM Cloud Pak® for Data.
-The current project  analyze the interactions that users have 
-with articles on the IBM Watson Studio platform, and generate recommendations
-about articles that may interest them. 
+[IBM Watson Studio](https://www.ibm.com/cloud/watson-studio) is a platform that runs and manages AI models and optimizes decisions anywhere on IBM Cloud Pak® for Data. The current project analyzes users' interactions with articles on the IBM Watson Studio platform and generates recommendations about articles that may interest them.
+
+
 ## Table of contents
 
 - [What's included](#whats-included)
@@ -25,8 +23,7 @@ about articles that may interest them.
 ## What's included
 
 The [notebook](https://github.com/BHafsa/IBM-watson-recommender/blob/main/Recommendations_with_IBM.ipynb) 
-contains the code used to analyse the IBM dataset. 
-It is organised in two main steps:
+ contains the code used to analyze the IBM dataset. It is organized in two main steps:
 
 1. Exploratory Data Analysis
 2. Rank Based Recommendations
